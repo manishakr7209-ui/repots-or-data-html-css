@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>World Population Report</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>World Population Report</h1>
+        <p>Global Population Overview</p>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+
+        <!-- Summary Section -->
+        <section class="card">
+            <h2>Population Summary</h2>
+            <ul>
+                <li>Total World Population: <strong>8.1 Billion</strong></li>
+                <li>Most Populous Country: <strong>India</strong></li>
+                <li>Least Populous Country: <strong>Vatican City</strong></li>
+            </ul>
+        </section>
+
+        <!-- Table Section -->
+        <section class="card">
+            <h2>Top 5 Most Populated Countries</h2>
+            <table>
+                <tr>
+                    <th>Rank</th>
+                    <th>Country</th>
+                    <th>Population</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>India</td>
+                    <td>1.43 B</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>China</td>
+                    <td>1.42 B</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>USA</td>
+                    <td>339 M</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Indonesia</td>
+                    <td>277 M</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Pakistan</td>
+                    <td>241 M</td>
+                </tr>
+            </table>
+        </section>
+
+        <!-- Conclusion -->
+        <section class="card">
+            <h2>Conclusion</h2>
+            <p>
+                The world population continues to grow rapidly, with Asia contributing
+                the largest share. Population trends impact economy, resources, and
+                global development.
+            </p>
+        </section>
+
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>Prepared by: Your Name | Year: 2025</p>
+    </footer>
+
+</body>
+</html>
